@@ -83,6 +83,16 @@ Abra `meu-posicionamento.md` e preencha: quem você é, o que faz, para quem, re
 
 Abra o Claude Code na pasta que quiser (ele pode ser usado em qualquer diretório) e converse com ele em português.
 
+### Como chamar a skill
+
+Você pode chamar a skill de duas formas:
+
+- **Pelo comando:** digite `/linkedin-consultor` seguido do seu pedido, por exemplo:
+
+  > /linkedin-consultor faça o diagnóstico do meu perfil. [cole o texto do perfil]
+
+- **Pela conversa:** basta pedir em português, como "analise meu perfil do LinkedIn" ou "reescreva minha headline". A skill é acionada automaticamente.
+
 ### Analisar o perfil (diagnóstico)
 
 Esse é o uso principal. Você tem duas formas de enviar o perfil:
